@@ -1,0 +1,31 @@
+.insightItem {
+    /* width: 180px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f8f9fc;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+
+
+    width: 10.1rem;
+    height: 5.0rem;
+    padding: 11px;
+    border-radius: 8px;
+    background-color: #f8f9fc;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .insightTitle {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1a202c;
+    margin-bottom: 10px;
+  }
+  
+  .insightValue {
+    font-size: 18px;
+    font-weight: 700;
+    color: #4a5568;
+  }
+  

@@ -1,0 +1,51 @@
+.container {
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .title h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .profit {
+    font-size: 14px;
+    color: #1E88E5;
+    margin-top: 4px;
+  }
+  
+  .info {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .infoItem {
+    text-align: right;
+  }
+  
+  .value {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .label {
+    font-size: 12px;
+    color: #666;
+  }
+  
+  .chartContainer {
+    margin-top: 20px;
+  }
+  

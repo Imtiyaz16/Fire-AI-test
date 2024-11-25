@@ -1,0 +1,74 @@
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 16px;
+    width: 300px;
+    font-family: "Arial", sans-serif;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  /* Header Section */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .iconContainer {
+    padding: 8px;
+    border-radius: 50%;
+  }
+  
+  .icon {
+    color: #fff;
+    font-size: 16px;
+  }
+  
+  .titleContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  
+  .title {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .subtitle {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .menuIcon {
+    color: #888;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  /* Main Section */
+  .main {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  /* Footer Section */
+  .footer {
+    font-size: 14px;
+    color: #777;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .link {
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  

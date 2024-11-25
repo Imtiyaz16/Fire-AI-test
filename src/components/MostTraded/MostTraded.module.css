@@ -1,0 +1,57 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tradeList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .tradeItem {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .tradeColor {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+  
+  .tradeName {
+    font-size: 14px;
+    color: #333;
+    font-weight: 500;
+  }
+  
+  .chartContainer {
+    position: relative;
+    width: 200px;
+    height: 100px;
+  }
+  
+  .totalCenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .totalCenter span:first-child {
+    display: block;
+    font-size: 12px;
+    color: #666;
+  }
+  

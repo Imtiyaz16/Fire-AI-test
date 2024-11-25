@@ -1,0 +1,70 @@
+{
+  "orderHistory": [
+    {
+      "symbol": "EURUSD.J",
+      "type": "Sell",
+      "openDate": "2024-11-01",
+      "openPrice": "2.80568",
+      "closeDate": "2024-11-02",
+      "closePrice": "1.80568",
+      "lots": 100,
+      "profit": "-$5.00",
+      "duration": "11s",
+      "gain": "-0.01%"
+    },
+    {
+      "symbol": "GBPUSD.J",
+      "type": "Buy",
+      "openDate": "2024-10-15",
+      "openPrice": "1.20568",
+      "closeDate": "2024-10-16",
+      "closePrice": "1.50568",
+      "lots": 150,
+      "profit": "$15.00",
+      "duration": "15s",
+      "gain": "0.05%"
+    },
+    {
+      "symbol": "USDCHF.J",
+      "type": "Sell",
+      "openDate": "2024-09-25",
+      "openPrice": "3.00568",
+      "closeDate": "2024-09-26",
+      "closePrice": "2.90568",
+      "lots": 200,
+      "profit": "-$10.00",
+      "duration": "20s",
+      "gain": "-0.03%"
+    }
+  ],
+
+  "aggregateData": [
+    {
+      "Title": "Average Win",
+      "Value": "$350"
+    },
+    {
+      "Title": "Average Loss",
+      "Value": "$-150"
+    },
+    {
+      "Title": "Profit Factor",
+      "Value": "2.33"
+    },
+    {
+      "Title": "Best Trade",
+      "Value": "$1,500"
+    },
+    {
+      "Title": "Win Ratio",
+      "Value": "65%"
+    },
+    {
+      "Title": "Risk-Reward",
+      "Value": "3:1"
+    }
+  ]
+}
+
+
+
