@@ -1,0 +1,23 @@
+[
+    {
+      "type": "Profit Target",
+      "amount": "$8,908.99",
+      "subtitle": "Of $12,00.90",
+      "footerText": "Equity Pass Level",
+      "footerLink": "$124,900.00",
+      "iconColor": "#005bff",
+      "linkColor": "#005bff",
+      "iconType": "lock"
+    },
+    {
+      "type": "Daily Loss Limit",
+      "amount": "$12,908.99",
+      "subtitle": "Of $12,00.90",
+      "footerText": "Equity Breach Level",
+      "footerLink": "$124,900.00",
+      "iconColor": "#ff5b5b",
+      "linkColor": "#ff5b5b",
+      "iconType": "download"
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+{
+    "logo": "https://icons.veryicon.com/png/o/miscellaneous/open-ncloud/network-135.png", 
+    "menu": [
+      {"name": "Accounts Overview", "link": "/accounts-overview", "icon": "🔑"},
+      {"name": "Payouts", "link": "/payouts", "icon": "💰"},
+      {"name": "Certificates", "link": "/certificates", "icon": "📜"},
+      {"name": "Leaderboard", "link": "/leaderboard", "icon": "🏆"},
+      {"name": "Order List", "link": "/order-list", "icon": "📋"}
+    ],
+    "apps": [
+      {"name": "News Feeds", "link": "/news-feeds", "icon": "📰"},
+      {"name": "Economic Calendar", "link": "/economic-calendar", "icon": "📅"},
+      {"name": "WebTrader Platform", "link": "/webtrader-platform", "icon": "🖥️"},
+      {"name": "Margin Calculator", "link": "/margin-calculator", "icon": "📊"},
+      {"name": "Profit Calculator", "link": "/profit-calculator", "icon": "📈"}
+    ],
+    "profile": {
+      "accountOptions": ["9999999", "8888888", "7777777"],
+      "status": "Active",
+      "program": "-$20,000 Evl",
+      "name": "Daniel Sullivan",
+      "email": "alex@gmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/52.jpg"
+    }
+  }
+  
